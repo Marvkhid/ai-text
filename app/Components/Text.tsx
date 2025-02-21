@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import Message from "../message";
+import Message from "./Message"; // 
 
 interface MessageType {
   id: string;
